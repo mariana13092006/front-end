@@ -2,7 +2,7 @@
    <head>
     <title>Página Html</title>
    </head>
-   <body style="background:#ff0000; color:#ffffff; text-align: center;">
+   <body style="background:#D8BFD8; color:#4B0082; text-align: center;font-family:Candara">
     <h1>Colégio Pedro II</h1>
     <br>
     <h2>2º. Técnico em Desenvolvimento de Sistemas</h2>
