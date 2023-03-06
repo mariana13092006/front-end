@@ -1,0 +1,25 @@
+<!doctype html>
+   <head>
+    <title>Página Html</title>
+   </head>
+   <body style="background:#D8BFD8; color:#4B0082; text-align: center;font-family:Candara">
+    <h1>
+    <img src="img/maça.png" width="200px" higth="200px">
+    Colégio Pedro II</h1>
+    <br>
+    <h2><a hrfe=http://google.com">2º. Técnico em Desenvolvimento de Sistemas</h2>
+    <br>
+    <p>Professor:<b>Erval Netto de Lima</b></p>
+    <br>
+    <p>Aluno: Mariana Oliveira Devigili.
+    <hr>
+    <br>
+    <h1><img src="img/fruta.png" width="250px" higth"250px">
+    Minha Primeira Página Html</h1>
+    <br><br><br>
+    <p>Rodapé: Umuarama 27 de Fevereiro de 2023.</p>
+    
+    
+   </body>
+</html>
+   
